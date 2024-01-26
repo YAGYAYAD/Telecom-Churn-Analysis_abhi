@@ -1,1 +1,1 @@
-# Telecom-Churn-Analysis_abhi
+The purpose of this project is to examine Orange S.A.'s turnover rate and determine the elements that influence customer attrition. The Orange Telecom Churn Dataset, which comprises cleansed customer activity data and a churn label indicating whether a customer discontinued their membership, is the dataset used in this investigation.
